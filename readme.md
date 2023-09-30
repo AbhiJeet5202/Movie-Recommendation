@@ -1,1 +1,1 @@
-
+This movie recommendation system only recommends Hollywood movies because the dataset used as a reference is tailored to Hollywood movies. If you want to use this model for a different movie dataset, you can make changes to the model accordingly.
